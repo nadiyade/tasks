@@ -1,0 +1,3 @@
+1;Lucas;George;1944-05-14;USA;https://www.lucasfilm.com
+2;Scott;Ridley;1937-11-30;UK, USA;https://en.wikipedia.org/wiki/Ridley_Scott
+3;Cameron;James Francis;1954-08-16;New Zealand, USA;https://www.ted.com/speakers/james_cameron
